@@ -2,6 +2,7 @@ Entries are sorted chronologically from oldest to youngest within each release,
 releases are sorted from youngest to oldest.
 
 version <next>:
+- WMA Lossless encoder
 - ffprobe -codec option
 - EXIF Metadata Parsing
 - gfxcapture: Windows.Graphics.Capture based window/monitor capture
